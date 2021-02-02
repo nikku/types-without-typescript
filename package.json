@@ -1,0 +1,12 @@
+{
+  "name": "types-without-typescript",
+  "version": "0.0.0",
+  "description": "A talk on types without TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests'",
+    "build": "npx pfwr presentation.md presentation.html"
+  },
+  "author": "Nico Rehwaldt <https://github.com/nikku>",
+  "license": "MIT"
+}
